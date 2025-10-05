@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![Spotify Album Finder](src\assets\index.png)
+![Spotify Album Finder](./src/assets/index.png)
 
 **Discover your favorite artist's albums** ✨
 
-![Spotify Album Finder](src\assets\taylor.png)
+![Spotify Album Finder](./src/assets/taylor.png)
 
 </div>
 
